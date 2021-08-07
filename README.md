@@ -1,2 +1,0 @@
-# WebDevelopmentPractices
-WebDevelopmentPractices (FrontEnd+BackEnd)
